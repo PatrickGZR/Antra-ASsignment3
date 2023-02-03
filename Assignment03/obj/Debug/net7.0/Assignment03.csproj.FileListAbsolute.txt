@@ -1,0 +1,15 @@
+/Users/ziruiguo/Projects/Assignment03/Assignment03/obj/Debug/net7.0/Assignment03.csproj.AssemblyReference.cache
+/Users/ziruiguo/Projects/Assignment03/Assignment03/obj/Debug/net7.0/Assignment03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ziruiguo/Projects/Assignment03/Assignment03/obj/Debug/net7.0/Assignment03.AssemblyInfoInputs.cache
+/Users/ziruiguo/Projects/Assignment03/Assignment03/obj/Debug/net7.0/Assignment03.AssemblyInfo.cs
+/Users/ziruiguo/Projects/Assignment03/Assignment03/obj/Debug/net7.0/Assignment03.csproj.CoreCompileInputs.cache
+/Users/ziruiguo/Projects/Assignment03/Assignment03/bin/Debug/net7.0/Assignment03
+/Users/ziruiguo/Projects/Assignment03/Assignment03/bin/Debug/net7.0/Assignment03.deps.json
+/Users/ziruiguo/Projects/Assignment03/Assignment03/bin/Debug/net7.0/Assignment03.runtimeconfig.json
+/Users/ziruiguo/Projects/Assignment03/Assignment03/bin/Debug/net7.0/Assignment03.dll
+/Users/ziruiguo/Projects/Assignment03/Assignment03/bin/Debug/net7.0/Assignment03.pdb
+/Users/ziruiguo/Projects/Assignment03/Assignment03/obj/Debug/net7.0/Assignment03.dll
+/Users/ziruiguo/Projects/Assignment03/Assignment03/obj/Debug/net7.0/refint/Assignment03.dll
+/Users/ziruiguo/Projects/Assignment03/Assignment03/obj/Debug/net7.0/Assignment03.pdb
+/Users/ziruiguo/Projects/Assignment03/Assignment03/obj/Debug/net7.0/Assignment03.genruntimeconfig.cache
+/Users/ziruiguo/Projects/Assignment03/Assignment03/obj/Debug/net7.0/ref/Assignment03.dll
